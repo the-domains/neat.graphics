@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[neat.graphics]]></title>
         <description><![CDATA[neat.graphics]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/neat.graphics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 19:25:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Apr 2016 19:27:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/neat.graphics/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Some Pictures I took in Cluj-Napoca]]></title>
-            <description><![CDATA[<article><h1>Some Pictures I took in Cluj-Napoca</h1><p>The studio</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/41ace793-262a-438c-a889-55e042f66400.jpg"></article>]]></description>
-            <link>undefinedsome-pictures-i-took-in-cluj-napoca/index.html</link>
+            <title><![CDATA[Pictures of Cluj-Napoca]]></title>
+            <description><![CDATA[<article><h1>Pictures of Cluj-Napoca</h1><p>The studio</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/41ace793-262a-438c-a889-55e042f66400.jpg"></article>]]></description>
+            <link>https://thegrid.ai/neat.graphics/some-pictures-i-took-in-cluj-napoca/index.html</link>
             <guid isPermaLink="false">44fe1631-dc26-419a-931f-62a2ff507e20</guid>
-            <pubDate>Sun, 03 Apr 2016 19:25:56 GMT</pubDate>
+            <pubDate>Sun, 03 Apr 2016 19:26:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
