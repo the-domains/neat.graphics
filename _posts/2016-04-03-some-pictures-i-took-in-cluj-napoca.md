@@ -5,24 +5,24 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: My first trip with Sony a7S and Zeiss Loxia 50/2
-datePublished: '2016-04-03T19:25:56.636Z'
-dateModified: '2016-04-03T19:25:50.371Z'
-title: Some Pictures I took in Cluj-Napoca
+description: The studio
+datePublished: '2016-04-03T19:26:58.732Z'
+dateModified: '2016-04-03T19:26:27.016Z'
+title: Pictures of Cluj-Napoca
 author: []
+sourcePath: _posts/2016-04-03-some-pictures-i-took-in-cluj-napoca.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-03-some-pictures-i-took-in-cluj-napoca.md
-published: true
 url: some-pictures-i-took-in-cluj-napoca/index.html
 _type: Article
 
 ---
-# Some Pictures I took in Cluj-Napoca
+# Pictures of Cluj-Napoca
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41ace793-262a-438c-a889-55e042f66400.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9b4e222-9edf-43e1-8eec-5579fe8dda05.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca2a42a5-f9ee-4004-8ad1-57d7d08b12a7.jpg)
