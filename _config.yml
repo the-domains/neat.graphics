@@ -1,7 +1,7 @@
 name: neat.graphics
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.40496
+typography_spectrum: 0.07617
 title: neat.graphics
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#a7ab88'
     - '#727155'
     - '#5b2d1d'
-  brandStrength: 0
+  brandStrength: 0.1875
   lightness: 0.1875
   saturation: 1
   rhythmicContrast: 0.25
